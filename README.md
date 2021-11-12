@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thisyahlen
 - 👀 I’m interested in Mobile Development and Website
-- 🌱 I’m currently learning Flutter and React
+- 🌱 I’m currently learning Flutter,React and Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thisyahlen75@gmail.com
 
