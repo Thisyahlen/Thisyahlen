@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Thisyahlen
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning React Native,React and Node.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thisyahlen75@gmail.com
 
 <!---
